@@ -6,7 +6,7 @@ use Ewersonfc\CNABPagamento\CNABPagamento;
 use Ewersonfc\CNABPagamento\Entities\DataFile;
 use Ewersonfc\CNABPagamento\Helpers\Helper;
 
-//$header = [
+//$header = [ 
 //    'numero_conta' => '12345678',
 //    'codigo_agencia' => '11200',
 //    'nome_cliente' => 'NOME CLIENT BANCARIO',
